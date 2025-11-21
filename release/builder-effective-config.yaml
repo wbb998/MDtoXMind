@@ -1,0 +1,22 @@
+directories:
+  output: release
+  buildResources: build
+appId: com.mdtoxmind.app
+productName: MDtoXMind
+files:
+  - filter:
+      - dist/**/*
+      - dist-electron/**/*
+mac:
+  target:
+    - dmg
+    - zip
+  category: public.app-category.productivity
+win:
+  target:
+    - nsis
+    - portable
+linux:
+  target:
+    - AppImage
+electronVersion: 39.2.3
