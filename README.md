@@ -1,5 +1,7 @@
 # MDtoXMind
 
+[English](README_EN.md) | 中文
+
 MDtoXMind 是一款基于 Electron 和 React 开发的桌面应用程序，旨在将 Markdown 文件快速转换为 XMind ZEN 兼容的思维导图。
 
 它专为 macOS 设计，同时兼容 Windows，提供简洁的图形化界面，支持拖拽导入、实时预览以及图片和备注的自动转换。
