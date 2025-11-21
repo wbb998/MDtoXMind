@@ -19,12 +19,32 @@ Designed for macOS and compatible with Windows, it offers a clean graphical inte
 - **Privacy First**: All data processing is done locally; no data is uploaded to any server.
 - **Maintenance Free**: Provided as a standalone package, no development environment setup required.
 
-## 🚀 Download & Install
+## � Get & Install (Beginner's Guide)
 
-Please visit the [Releases](../../releases) page to download the latest installer.
+Due to GitHub's file size limit (>100MB), we may not be able to host the latest binary releases directly. We **strongly recommend** building the app yourself following these simple steps. It only takes 5 minutes!
 
-- **macOS**: Download the `.dmg` file, double-click to open, and drag the app to your Applications folder.
-- **Windows**: Download the `.exe` file to install (requires self-build or waiting for release).
+### 🛠️ Easy Build Steps
+
+1.  **Prepare Environment**:
+    *   Visit [Node.js Official Website](https://nodejs.org/) and install the "LTS" version.
+2.  **Download Code**:
+    *   Click the green **Code** button at the top right of this page and select **Download ZIP**.
+    *   Unzip the downloaded file.
+3.  **Build It**:
+    *   **For Mac**:
+        1.  Open the **Terminal** app.
+        2.  Type `cd ` (with a space), then drag the unzipped folder into the terminal window, and press Enter.
+        3.  Type `npm install` and press Enter. Wait for it to finish.
+        4.  Type `npm run dist` and press Enter.
+    *   **For Windows**:
+        1.  Open the unzipped folder.
+        2.  Type `cmd` in the address bar and press Enter.
+        3.  Type `npm install` and press Enter.
+        4.  Type `npm run dist` and press Enter.
+4.  **Get the App**:
+    *   Once finished, open the `release` folder in the project directory.
+    *   **Mac**: Double-click `MDtoXMind-x.x.x.dmg` to install.
+    *   **Windows**: Double-click `MDtoXMind-x.x.x.exe` to install.
 
 ## 📖 User Guide
 
