@@ -6,7 +6,7 @@ MDtoXMind is a desktop application built with Electron and React, designed to qu
 
 Designed for macOS and compatible with Windows, it offers a clean graphical interface with drag-and-drop import, real-time preview, and automatic conversion of images and notes.
 
-![App Screenshot](https://via.placeholder.com/800x500?text=MDtoXMind+Screenshot)
+![App Screenshot](assets/screenshot.png)
 
 ## ✨ Key Features
 

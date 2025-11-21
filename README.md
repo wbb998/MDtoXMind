@@ -6,7 +6,7 @@ MDtoXMind 是一款基于 Electron 和 React 开发的桌面应用程序，旨�
 
 它专为 macOS 设计，同时兼容 Windows，提供简洁的图形化界面，支持拖拽导入、实时预览以及图片和备注的自动转换。
 
-![App Screenshot](https://via.placeholder.com/800x500?text=MDtoXMind+Screenshot)
+![App Screenshot](assets/screenshot.png)
 
 ## ✨ 主要特性
 
